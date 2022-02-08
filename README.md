@@ -5,4 +5,4 @@ The program:
 2. Loads all the pixels into 2D array
 3. Converts each pixel tuple (RGB) into a brightness number
 4. Maps each brightness number to a corresponding ASCII character
-5. Prints the ASCII characters
+5. Prints the ASCII characters to a .txt file where the ASCII art is displayed
