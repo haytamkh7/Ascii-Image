@@ -20,7 +20,7 @@ public class AsciiArt {
 		System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 
 		// Source of the image
-		String source = "1621168526857.jpeg";
+		String source = "photo.jpeg";
 		
 		// Loading the source image
 		Mat matrix = Imgcodecs.imread(source);
